@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
             Leading the way in premium private education in Ikorodu. We nurture excellence, character, and global citizenship in every student.
           </p>
           <div className="flex space-x-4">
-            <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors"><Facebook size={18} /></a>
+            <a href="https://web.facebook.com/myverad/?_rdc=1&_rdr#" target="_blank" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors"><Facebook size={18} /></a>
             <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors"><Twitter size={18} /></a>
             <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors"><Instagram size={18} /></a>
             <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors"><Linkedin size={18} /></a>
