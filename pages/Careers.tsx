@@ -92,7 +92,7 @@ const Careers: React.FC = () => {
                         value={formData.email}
                         onChange={e => setFormData({...formData, email: e.target.value})}
                         className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none transition-all" 
-                        placeholder="john@example.com"
+                        placeholder="favourdada@gmail.com"
                       />
                     </div>
                   </div>
